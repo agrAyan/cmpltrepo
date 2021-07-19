@@ -1,3 +1,7 @@
 hii newsample from remote repo main branch
 hii newsample from local repo feature branch
+<<<<<<< HEAD
 hii newsample from local repo feature branch
+=======
+hii new sample from remote repo feature branch
+>>>>>>> 003939544e72fb138a5623888b8229678d50ef07

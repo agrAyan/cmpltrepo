@@ -2,4 +2,8 @@ hii greet is a remote repo and main branch
 
 hii greet is a local repo and feature branch
 
+<<<<<<< HEAD
 hii greet is a local repo and feature branch
+=======
+hii greet is a remote repo change from repo branch
+>>>>>>> 003939544e72fb138a5623888b8229678d50ef07
